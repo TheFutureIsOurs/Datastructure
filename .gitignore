@@ -4,3 +4,6 @@ Debug
 *.ncb
 *.opt
 *.plg
+.settings
+.buildpath
+.project
