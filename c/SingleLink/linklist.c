@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 /************************************************************************/
 /* 单链表结构                                                           */
 /************************************************************************/
@@ -16,6 +17,7 @@ void linkInsert(LinkList *L,int i,int value);
 void printLink(LinkList *L);
 void linkDelete(LinkList *L,int i,int *value);
 void getValue(LinkList *L,int i,int *value);
+void createHeadLink(LinkList *L,int n);
 /************************************************************************/
 /* 单链表初始化                                                         */
 /************************************************************************/
@@ -116,10 +118,35 @@ void printLink(LinkList *L)
 	}
 	printf("\n");
 }
+/************************************************************************/
+/*  头插法创建n个元素的单链表                                         */
+/************************************************************************/
+void createHeadLink(LinkList *L,int n)
+{
+	int i;
+	LinkList p;
+	*L = (LinkList)malloc(sizeof(Node));
+	if (!(*L))
+	{
+		printf("内存不足");
+		exit(0);
+	}
+	(*L)->next = NULL;
+	srand(time(0));
+	for (i=0;i<n;i++)
+	{
+		p = (LinkList)malloc(sizeof(Node));
+		p->value = rand()%100+1;
+		p->next = (*L)->next;
+		(*L)->next = p;
+	}
+}
 
 int main()
 {
 	LinkList L;
+	
+	/*
 	int i;
 	int value;
 	initLink(&L);
@@ -130,10 +157,12 @@ int main()
 	printLink(&L);
 	getValue(&L,1,&value);
 	printf("查找的值为%d\n",value);
-	/*
+	
 	//linkDelete(&L,5,&value);
 	//printLink(&L);
 	//printf("删除的值为%d\n",value);
 	*/
+	createHeadLink(&L,5);
+	printLink(&L);
 	return 0;
 }
