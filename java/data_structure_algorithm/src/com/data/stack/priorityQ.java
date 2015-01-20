@@ -46,12 +46,11 @@ public class priorityQ {
 	      thePQ.insert(10);
 	      thePQ.insert(40);
 	      thePQ.insert(20);
-
 	      while( !thePQ.isEmpty() )
-	         {
+          {
 	         long item = thePQ.remove();
 	         System.out.print(item + " ");  // 10, 20, 30, 40, 50
-	         }  // end while
+          }  // end while
 	      System.out.println("");
 	}
 }
