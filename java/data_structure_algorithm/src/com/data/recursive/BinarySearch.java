@@ -35,12 +35,34 @@ class OrdArray{
 			System.out.print(array[i]+" ");
 		}
 	}
+	public int find(long value){
+		return ordfind(value, 0, Elements-1);
+	}
+	/**
+	 * 二分查找
+	 * @return
+	 */
+	public int ordfind(long value,int lowerbound,int upperbound){
+		int order;
+		order = (lowerbound+upperbound)/2;
+		if (array[order]==value) {
+			return order;
+		}else if (lowerbound>upperbound) {
+			return -1;
+		}else {
+			if (array[order]>value) {
+				return ordfind(value, lowerbound, order-1);
+			}else {
+				return ordfind(value, order+1, upperbound);
+			}
+		}
+	}
 }
 
 public class BinarySearch {
 	public static void main(String[] args) {
 		OrdArray arr = new OrdArray(100);
-		arr.insert(72);                // insert items
+		  arr.insert(72);                // insert items
 	      arr.insert(90);
 	      arr.insert(45);
 	      arr.insert(126);
@@ -57,6 +79,9 @@ public class BinarySearch {
 	      arr.insert(63);
 	      arr.insert(36);
 	      arr.display();
+	      System.out.println("");
+	      int order = arr.find(87);
+	      System.out.println(order);
 	}
 
 }
