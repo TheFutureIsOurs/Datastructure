@@ -1,0 +1,1041 @@
+2014/12/23 14:55:57 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:55:57 [trace] [system.db.ar.CActiveRecord] post.find()
+in /data/web/admin.yii.com/protected/controllers/PostController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:55:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT id,title,content FROM `post` `t` WHERE (id=:id) AND (id=3) LIMIT 1
+in /data/web/admin.yii.com/protected/controllers/PostController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:56:32 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:56:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:56:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:56:32 [trace] [system.db.ar.CActiveRecord] post.find()
+in /data/web/admin.yii.com/protected/controllers/PostController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 14:56:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT id,title,content FROM `post` `t` WHERE (id=:id) OR (id=3) LIMIT 1
+in /data/web/admin.yii.com/protected/controllers/PostController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 15:15:57 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 15:15:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 15:15:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 15:15:58 [trace] [system.db.ar.CActiveRecord] post.findAll()
+in /data/web/admin.yii.com/protected/controllers/PostController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 15:15:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT id,title,content FROM `post` `t` WHERE (id=:id) OR (id=3)
+in /data/web/admin.yii.com/protected/controllers/PostController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:33:20 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:33:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:33:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:33:20 [trace] [system.db.ar.CActiveRecord] post.findAll()
+in /data/web/admin.yii.com/protected/controllers/PostController.php (30)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:33:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT id,title,content FROM `post` `t` WHERE title=:ycp0
+in /data/web/admin.yii.com/protected/controllers/PostController.php (30)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:39:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:39:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:39:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:39:52 [trace] [system.db.ar.CActiveRecord] post.findAll()
+in /data/web/admin.yii.com/protected/controllers/PostController.php (32)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/23 16:39:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT id,title,content FROM `post` `t` WHERE title=:ycp0
+in /data/web/admin.yii.com/protected/controllers/PostController.php (32)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 09:26:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 09:26:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 09:26:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 09:26:53 [trace] [system.db.ar.CActiveRecord] post.count()
+in /data/web/admin.yii.com/protected/controllers/PostController.php (30)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 09:26:53 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `post` `t` WHERE title=:ycp0
+in /data/web/admin.yii.com/protected/controllers/PostController.php (30)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 14:00:43 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 14:00:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/24 14:00:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `post`
+in /data/web/admin.yii.com/protected/controllers/PostController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:08:13 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:19:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:19:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:19:38 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:22:29 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:22:29 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:22:29 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:23:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:24:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:24:23 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:26:54 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:26:54 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:26:54 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:28:32 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:28:32 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:28:32 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:31:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:31:39 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:31:39 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:35:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:44:32 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:44:32 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`) VALUES (:name, :type, :description)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (13)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:44:32 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`) VALUES (:name, :type, :description).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (13)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:45:17 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:45:17 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`) VALUES (:name, :type, :description)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (13)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:45:17 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`) VALUES (:name, :type, :description).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (13)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:46:38 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:47:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:48:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:48:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`) VALUES (:name, :type, :description)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (13)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:48:16 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE4\xB8\xBB\xE5\xB8\xAD' for column 'description' at row 1. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`) VALUES (:name, :type, :description).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (13)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:51:11 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:51:11 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `country` (`name`, `code`, `population`) VALUES (:name, :code, :population)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:51:11 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'us' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `country` (`name`, `code`, `population`) VALUES (:name, :code, :population).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:51:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 14:51:34 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `country` (`name`, `code`, `population`) VALUES (:name, :code, :population)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:13:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:13:47 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:19:26 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:19:26 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:19:26 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'chairman' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:23:48 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:23:48 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:23:48 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'chairman' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (5)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:24:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:24:04 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (6)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:24:04 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (7)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:24:04 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:24:04 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (9)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:24:04 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (10)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:36:05 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:36:05 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (11)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:36:05 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (12)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:36:05 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (13)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:36:05 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (14)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:36:05 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (15)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:36:05 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItem` (`name`, `type`, `description`, `bizrule`, `data`) VALUES (:name, :type, :description, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (16)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='governor' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (19)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='mayor' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (19)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (19)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (20)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='countyhead' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (20)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (20)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (21)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='villagehead' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (21)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (21)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (22)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='normal' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (22)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:44:28 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (22)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:45:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:45:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:45:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='governor' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:45:07 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:45:07 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'chairman-governor' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (18)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (23)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='mayor' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (23)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (23)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (24)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='countyhead' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (24)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (24)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (25)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='villagehead' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (25)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (25)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (26)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='normal' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (26)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (26)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (28)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='villagehead' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (28)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (28)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='normal' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (29)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (31)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='normal' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (31)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:47:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (31)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='managecountry' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (34)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='mangeprovince' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (34)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (34)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (35)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='managetown' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (35)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (35)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (36)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='managepowiat' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (36)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (36)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (37)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='managevillage' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (37)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (37)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (38)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='manageself' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (38)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (38)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:36 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='managecountry' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:36 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:50:36 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'chairman-managecountry' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:53:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:53:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name1 OR name=:name2
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:53:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT `name`, `type`, `description`, `bizrule`, `data`
+FROM `AuthItem`, `AuthItemChild`
+WHERE parent='managecountry' AND name=child
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:53:04 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:53:04 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'chairman-managecountry' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `AuthItemChild` (`parent`, `child`) VALUES (:parent, :child).
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (33)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:54:32 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:54:32 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `AuthAssignment` (`itemname`, `userid`, `bizrule`, `data`) VALUES (:itemname, :userid, :bizrule, :data)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (40)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT `parent`
+FROM `AuthItemChild`
+WHERE child=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:55:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:56:31 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT `parent`
+FROM `AuthItemChild`
+WHERE child=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:57:45 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 15:57:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (44)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:00:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:00:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (44)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:01:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:01:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (44)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:02:24 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:02:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:02:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:02:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT `parent`
+FROM `AuthItemChild`
+WHERE child=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:02:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:03:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (4)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:03:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthAssignment`
+WHERE userid=:userid
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:03:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:03:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT `parent`
+FROM `AuthItemChild`
+WHERE child=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/25 16:03:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `AuthItem`
+WHERE name=:name
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (43)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:34:41 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:34:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:34:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:34:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:34:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:55:46 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:55:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:55:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:55:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:55:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:59:36 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:59:36 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:59:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:59:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 11:59:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 12:09:40 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 12:09:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 12:09:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 12:09:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 12:09:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:13 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:13 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:15 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:03:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (32)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:47 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:52 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:58 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:58 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:04:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:24:39 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:24:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:24:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:24:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:24:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:28:38 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:28:38 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:28:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:28:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2014/12/29 13:28:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (33)
+in /data/web/admin.yii.com/protected/controllers/UserController.php (8)
+in /data/web/admin.yii.com/index.php (13)
+2015/01/05 17:05:18 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:05:18 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:05:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:05:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_yii.user' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `user`.
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:09:10 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:09:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:09:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:09:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `yii_user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:20:56 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:20:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:20:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:20:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:20:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `yii_user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:21:36 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:21:36 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:21:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:21:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:21:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `yii_user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (46)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:38:04 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:38:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:38:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:38:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/05 17:38:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `yii_user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/06 10:21:35 [trace] [system.db.ar.CActiveRecord] user.find()
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/06 10:21:35 [trace] [system.db.CDbConnection] Opening DB connection
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/06 10:21:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/06 10:21:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `yii_user`
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
+2015/01/06 10:21:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `yii_user` `t` WHERE username=:username LIMIT 1
+in /data/web/admin.yii.com/protected/components/UserIdentity.php (21)
+in /data/web/admin.yii.com/protected/models/LoginForm.php (66)
+in /data/web/admin.yii.com/protected/controllers/AuthController.php (97)
